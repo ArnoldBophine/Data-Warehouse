@@ -1,4 +1,4 @@
-## Bophine Arnold Odiyo 668821
+## Bophine Arnold Odiyo 821
 
 ## Database and Data Analysis Project
 This project demonstrates the use of Python, SQLite, and Pandas for basic database creation, manipulation, and data analysis. It is structured to introduce fundamental operations such as printing output, setting up a relational database, inserting records, retrieving them, and analyzing the data using Pandas.
