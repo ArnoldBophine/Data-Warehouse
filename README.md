@@ -1,3 +1,7 @@
+Bophine Arnold Odiyo 668821
+
+
+
 Database and Data Analysis Project
 
 This project demonstrates how to:
@@ -8,7 +12,7 @@ Create and interact with a SQLite database.
 
 Perform basic data operations using Python and Pandas.
 
-📂 Project Structure
+ Project Structure
 
 Notebook/Script contains:
 
@@ -28,7 +32,7 @@ Converts the results into a Pandas DataFrame.
 
 Displays DataFrame info, description, and missing value checks.
 
-🛠️ Requirements
+ Requirements
 
 Install the following Python libraries before running the project:
 
@@ -37,7 +41,7 @@ pip install pandas matplotlib
 
 (Standard libraries like sqlite3 are included with Python.)
 
-▶️ How to Run
+ How to Run
 
 Clone/download this repository.
 
@@ -57,7 +61,7 @@ DataFrame overview (head, info, description).
 
 Missing values summary.
 
-📊 Example Output
+ Example Output
 hello world
 
 Connected to database: data_warehouse.db
@@ -72,7 +76,7 @@ Fetched Data:
 
 Followed by DataFrame details and statistics.
 
-🚀 Future Improvements
+ Future Improvements
 
 Add more database tables and relationships.
 
