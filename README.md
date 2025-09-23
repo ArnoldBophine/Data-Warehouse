@@ -1,8 +1,6 @@
-Bophine Arnold Odiyo 668821
+## Bophine Arnold Odiyo 668821
 
-
-
-Database and Data Analysis Project
+## Database and Data Analysis Project
 
 This project demonstrates how to:
 
@@ -14,7 +12,7 @@ Perform basic data operations using Python and Pandas.
 
  Project Structure
 
-Notebook/Script contains:
+## Notebook/Script contains:
 
 Cell 1: Prints hello world.
 
@@ -32,7 +30,7 @@ Converts the results into a Pandas DataFrame.
 
 Displays DataFrame info, description, and missing value checks.
 
- Requirements
+## Requirements
 
 Install the following Python libraries before running the project:
 
@@ -41,7 +39,7 @@ pip install pandas matplotlib
 
 (Standard libraries like sqlite3 are included with Python.)
 
- How to Run
+ ## How to Run
 
 Clone/download this repository.
 
@@ -49,7 +47,7 @@ Open the Jupyter Notebook (.ipynb) or Python script (.py).
 
 Run all cells in order.
 
-Expected output includes:
+## Expected output includes:
 
 "hello world" printed to the console.
 
@@ -61,7 +59,7 @@ DataFrame overview (head, info, description).
 
 Missing values summary.
 
- Example Output
+## Example Output
 hello world
 
 Connected to database: data_warehouse.db
@@ -76,7 +74,7 @@ Fetched Data:
 
 Followed by DataFrame details and statistics.
 
- Future Improvements
+ ## Future Improvements
 
 Add more database tables and relationships.
 
