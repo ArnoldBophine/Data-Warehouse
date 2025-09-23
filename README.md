@@ -1,16 +1,31 @@
 ## Bophine Arnold Odiyo 668821
 
 ## Database and Data Analysis Project
+This project demonstrates the use of Python, SQLite, and Pandas for basic database creation, manipulation, and data analysis. It is structured to introduce fundamental operations such as printing output, setting up a relational database, inserting records, retrieving them, and analyzing the data using Pandas.
 
-This project demonstrates how to:
+## Objectives
 
-Print a simple "Hello World" message.
+The main objectives of this project are:
 
-Create and interact with a SQLite database.
+To demonstrate a simple "Hello World" program in Python.
 
-Perform basic data operations using Python and Pandas.
+To create and interact with a SQLite database (data_warehouse.db).
 
- Project Structure
+To define and populate a relational table (employees).
+
+To perform data retrieval and store the results in a Pandas DataFrame.
+
+To explore the dataset using Pandas functionalities:
+
+Displaying data samples.
+
+Getting column info.
+
+Generating descriptive statistics.
+
+Checking for missing values.
+
+##  Project Structure
 
 ## Notebook/Script contains:
 
@@ -71,6 +86,25 @@ Fetched Data:
 (4, 'David', 35, 70000)
 (5, 'Eva', 28, 65000)
 
+Sample DataFrame Output:
+   id     name  age   salary
+0   1    Alice   24  50000.0
+1   2      Bob   30  60000.0
+2   3  Charlie   22  55000.0
+3   4    David   35  70000.0
+4   5      Eva   28  65000.0
+
+Pandas Summary Statistics:
+
+             age        salary
+count   5.000000      5.000000
+mean   27.800000  60000.000000
+std     4.768647   7905.694150
+min    22.000000  50000.000000
+25%    24.000000  55000.000000
+50%    28.000000  60000.000000
+75%    30.000000  65000.000000
+max    35.000000  70000.000000
 
 Followed by DataFrame details and statistics.
 
